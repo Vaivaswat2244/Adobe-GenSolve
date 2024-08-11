@@ -5,6 +5,8 @@
 <h2>Introduction:</h2>
 <p>Welcome to CURVETOPIA: A Journey into the World of Curves. This project explores the fascinating realm of 2D curves, focusing on their identification, regularization, and beautification in Euclidean space. Our work addresses three primary challenges in computational geometry and computer vision: curve regularization, symmetry detection, and curve completion.</p>
 
+
+
 <h2>Objective:</h2>
 <p>Our mission is to develop a robust system that can process 2D curves, transforming raw input into well-defined, aesthetically pleasing geometric forms. We aim to create an end-to-end process that takes line art as input and outputs a set of curves defined as connected sequences of cubic Bezier curves.</p>
 
@@ -79,6 +81,7 @@
 
 <h3>3. Symmetry Detection:</h3>
 <p>Symmetry detection is performed to identify any symmetric properties in the fragment, which can be valuable for reconstruction purposes. The symmetry detection algorithm involves:</p>
+<a href="http://www.cse.psu.edu/~yul11/CourseFall2006_files/loy_eccv2006.pdf">The reffered research paper</a>
 <ol>
   <li>Feature Extraction:
     <ul>
